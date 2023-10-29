@@ -2,7 +2,6 @@
 - Możliwość wypożyczania samochodów przez konkretnego użytkownika (tylko z poziomu pracownika)
 - Trzy typy kont użytkowników – administrator, workerOfRental, user
 
-
 # administrator:
 - Może przeglądać listę administratorów oraz pracowników
 - Konta administratora i workera tworzy i usuwa administrator
@@ -16,6 +15,6 @@ W ten sposób konto administratora ogranicza się jedynie do tworzenia kont prac
 - Może sprawdzać aktualnie wypożyczone samochody oraz kto je wypożyczył
 - Może dodawać i usuwać wypożyczenia
 
-# User:
+# user:
 - Może sprawdzać aktualny stan samochodów w wypożyczalni, widzieć które samochody posiada wypożyczalnia oraz czy są aktualnie dostępne
 - Sprawdzić swoje wypożyczone samochody oraz kiedy jest termin zwrotu
