@@ -20,4 +20,3 @@ W ten sposób konto administratora ogranicza się jedynie do tworzenia kont prac
 User:
 	Może sprawdzać aktualny stan samochodów w wypożyczalni, widzieć które samochody posiada wypożyczalnia oraz czy są aktualnie dostępne
 	Sprawdzić swoje wypożyczone samochody oraz kiedy jest termin zwrotu
-![image](https://github.com/wojoq/Wypozyczalnia-Samochodow/assets/84668471/1b99584c-b3bd-4256-9fac-5ecd203e40f8)
