@@ -4,6 +4,8 @@ Założenia projektu “Wypożyczalnia samochodów”:
 - Możliwość wypożyczania samochodów przez konkretnego użytkownika (tylko z poziomu pracownika)
 - Trzy typy kont użytkowników – administrator, workerOfRental, user
 
+
+
 administrator:
 - Może przeglądać listę administratorów oraz pracowników
 - Konta administratora i workera tworzy i usuwa administrator
